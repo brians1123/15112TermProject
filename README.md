@@ -26,4 +26,4 @@ To run my program, the modules that you will need to install are:
 - fractions (included)
 - pygame_textinput (http://pygame.org/project-Pygame+Text+Input-3013-5031.html)
 
-The main code can be found in the file {\tt polynomialTime.py}
+The main program can be found in the file `polynomialTime.py`.
