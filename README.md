@@ -9,7 +9,7 @@ Here is a [video](https://www.youtube.com/watch?v=zJlUzMCfKuQ) of me demonstrati
 ## Description and Dependencies
 
 My project recognizes handwritten mathematical expressions - polynomials, exponents, and basic arithmetic, and helps the user to analyze them further. The user is able to edit their inputs in case it is misread, or if they simply want to analyze something that they have not scanned.
-I then wrote code to parse, simplify, differentiate/integrate, and solve polynomials (using bisection
+I then wrote code to parse, simplify, differentiate/integrate, and find zeros of polynomials (using bisection
 methods).
 
 To run my program, the modules that you will need to install are:
