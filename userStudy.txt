@@ -1,0 +1,17 @@
+Notes from user study from class 5/2/17:
+
+Note - my program was crashing a good deal because I was just finishing changing a design feature, so I wasn't able to show my program as fully as I would have liked to
+
+Round 1:
+
+- make help screen more helpful
+- maybe make it interactive or not just one page
+- improve font
+- improve interacticity
+
+Round 2:
+
+- also improve interacticity
+- make it easier to display more functions on the same graph
+- make arithmetic bigger and easier to read
+- make root finding alg more obvious and important
