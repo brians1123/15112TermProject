@@ -12,7 +12,7 @@ My project recognizes handwritten mathematical expressions - polynomials, expone
 I then wrote code to parse, simplify, differentiate/integrate, and find zeros of polynomials (using bisection
 methods).
 
-To run my program, the modules that you will need to install are:
+To run my program, the modules that you will need are:
 
 - pygame (pip install pygame)
 - opencv (pip install opencv-python)
